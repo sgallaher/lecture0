@@ -23,5 +23,9 @@ input[type=text] {
 }
 input[type=number] {
     background-color:yellow;
+    max-width: 4em;
+}
+input[type="text"]:hover {
+    background-color: white;
 }
 
